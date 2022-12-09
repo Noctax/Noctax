@@ -1,5 +1,6 @@
 ![Header](./github-header-image.png)
 
+<!-- [START BADGES] -->
 name: Add Badges
 on:
   push:
@@ -54,6 +55,8 @@ jobs:
                 }
               ]
             ]
+<!-- [END BADGES] -->
+
 - 👀 I’m interested in Geology, Geophysics, Geotechnical Engineering, Data Science and Web development.
 
 - 💻 Passionate in Data Science, Web application development and Open Source contributor
