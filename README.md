@@ -2,21 +2,12 @@
 
 <!-- [START BADGES] -->
 
-<style>
-        #center1{
-         height:100%;
-         display:flex;
-         } 
-
-         #center2{
-         margin:auto;
-         }        
-    </style>
-    
 <div>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=noctax&label=Profile%20views&color=0e75b6&style=flat" alt="noctax" /> </p>
- <p align="right"> <a href="https://twitter.com/farescrack" target="blank"><img src="https://img.shields.io/twitter/follow/farescrack?logo=twitter&style=for-the-badge" alt="farescrack" /></a> </p>
- </div>
+ <p>
+    <img src="https://komarev.com/ghpvc/?username=noctax&label=Profile%20views&color=0e75b6&style=flat" align="left"> alt="noctax" />
+    <a href="https://twitter.com/farescrack"  align="right" target="blank"><img src="https://img.shields.io/twitter/follow/farescrack?logo=twitter&style=for-the-badge" alt="farescrack" /></a> 
+ </p>
+</div>
 <!-- [END BADGES] -->
 
 <!-- [Start language icons] -->
