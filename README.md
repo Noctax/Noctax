@@ -36,8 +36,11 @@
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
  
-
 <!-- [End language icons] -->
+ <p>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noctax&" alt="noctax" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=noctax&show_icons=true&locale=en" alt="noctax" />
+</p>
 
 - 👀 I’m interested in Geology, Geophysics, Geotechnical Engineering, Data Science and Web development.
 
@@ -52,10 +55,6 @@
 - 💬 Don't hesitate to contact me
 
 
-<p>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noctax&" alt="noctax" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=noctax&show_icons=true&locale=en" alt="noctax" />
-</p>
 <p align="center"> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noctax&show_icons=true&locale=en&layout=compact" alt="noctax" />
 </p>
