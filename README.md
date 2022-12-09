@@ -2,11 +2,16 @@
 
 - 👀 I’m interested in Geology, Geophysics, Geotechnical Engineering, Data Science and Web development.
 
-- 🌱 I’m currently learning Machine learning with Python, Web frontend dev: HTML/CSS/Javascript "React" and Back end dev with Python "streamlib & Flask".
+- 💻 Passionate in Data Science, Web application development and Open Source contributor
 
-- 💞️ I’m looking to collaborate on Datascience WebApps proejcts.
+- 🌱 I’m currently learning Machine learning with Python, Frontend dev: HTML/CSS/Javascript "React" and Backend dev with Python "streamlib & Flask".
 
-- 📫 How to reach me : Twitter==>@farescrack 
+- 💞️ I’m looking to collaborate on Datascience Web application proejcts.
+
+- 📊 All of my projects are available [here](https://github.com/Noctax?tab=repositories)
+
+- 💬 Don't hesitate to contact me
+
 
 <!---
 Noctax/Noctax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
