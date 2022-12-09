@@ -1,8 +1,11 @@
-- ![Header](./github-header-image.png)
-- 👋 Hi, I’m @Noctax
-- 👀 I’m interested in Data science Web dev
+![Header](./github-header-image.png)
+
+- 👀 I’m interested in Geology, Geophysics, Geotechnical Engineering, Data Science and Web development.
+
 - 🌱 I’m currently learning Machine learning with Python, Web frontend dev: HTML/CSS/Javascript "React" and Back end dev with Python "streamlib & Flask".
+
 - 💞️ I’m looking to collaborate on Datascience WebApps proejcts.
+
 - 📫 How to reach me : Twitter==>@farescrack 
 
 <!---
