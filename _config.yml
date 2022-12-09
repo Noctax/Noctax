@@ -1,3 +1,1 @@
 theme: jekyll-theme-minimal
-- name: Add Badges
-  uses: wow-actions/add-badges@v1.1.0
