@@ -1,33 +1,13 @@
 ![Header](./github-header-image.png)
 
 <!-- [START BADGES] -->
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=noctax&label=Profile%20views&color=0e75b6&style=flat" alt="noctax" /> </p>
+<p align="center"> <a href="https://twitter.com/farescrack" target="blank"><img src="https://img.shields.io/twitter/follow/farescrack?logo=twitter&style=for-the-badge" alt="farescrack" /></a> </p>
 <!-- [END BADGES] -->
 
-- 👀 I’m interested in Geology, Geophysics, Geotechnical Engineering, Data Science and Web development.
-
-- 💻 Passionate in Data Science, Web application development and Open Source contributor
-
-- 🌱 I’m currently learning Machine learning with Python, Frontend dev: HTML/CSS/JavaScript "React" and Backend dev with Python "streamlib & Flask".
-
-- 💞️ I’m looking to collaborate on Datascience Web application proejcts.
-
-- 📊 All of my projects are available [here](https://github.com/Noctax?tab=repositories)
-
-- 💬 Don't hesitate to contact me
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noctax&label=Profile%20views&color=0e75b6&style=flat" alt="noctax" /> </p>
-
-<p align="left"> <a href="https://twitter.com/farescrack" target="blank"><img src="https://img.shields.io/twitter/follow/farescrack?logo=twitter&style=for-the-badge" alt="farescrack" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/farescrack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farescrack" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fares-yettou-89438b177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fares-yettou-89438b177/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<!-- [Start language icons] -->
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -49,8 +29,23 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+  
+<!-- [End language icons] -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noctax&show_icons=true&locale=en&layout=compact" alt="noctax" /></p>
+- 👀 I’m interested in Geology, Geophysics, Geotechnical Engineering, Data Science and Web development.
+
+- 💻 Passionate in Data Science, Web application development and Open Source contributor
+
+- 🌱 I’m currently learning Machine learning with Python, Frontend dev: HTML/CSS/JavaScript "React" and Backend dev with Python "streamlib & Flask".
+
+- 💞️ I’m looking to collaborate on Datascience Web application proejcts.
+
+- 📊 All of my projects are available [here](https://github.com/Noctax?tab=repositories)
+
+- 💬 Don't hesitate to contact me
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noctax&show_icons=true&locale=en&layout=compact" alt="noctax" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noctax&show_icons=true&locale=en" alt="noctax" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noctax&" alt="noctax" /></p>
 
