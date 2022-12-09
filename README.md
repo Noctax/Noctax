@@ -33,10 +33,6 @@
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
  
 <!-- [End language icons] -->
- <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=noctax&" alt="noctax" />
- <img  src="https://github-readme-stats.vercel.app/api?username=noctax&show_icons=true&locale=en" alt="noctax" />
-</p>
 
 - 👀 I’m interested in Geology, Geophysics, Geotechnical Engineering, Data Science and Web development.
 
@@ -49,11 +45,6 @@
 - 📊 All of my projects are available [here](https://github.com/Noctax?tab=repositories)
 
 - 💬 Don't hesitate to contact me
-
-
-<p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noctax&show_icons=true&locale=en&layout=compact" alt="noctax" />
-</p>
 
 <!---
 Noctax/Noctax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
