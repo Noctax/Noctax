@@ -52,8 +52,9 @@
 - 💬 Don't hesitate to contact me
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noctax&show_icons=true&locale=en&layout=compact" alt="noctax" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noctax&show_icons=true&locale=en" alt="noctax" /></p>
+<p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noctax&show_icons=true&locale=en&layout=compact" alt="noctax" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=noctax&show_icons=true&locale=en" alt="noctax" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noctax&" alt="noctax" /></p>
 
 <!---
